@@ -6,6 +6,7 @@ function App() {
   return (
     <React.Fragment>
       <div className="container">
+    <h1>Weather App ( Learning Version) </h1>
         <CurrentLocation />
       </div>
       <div className="footer-info">
