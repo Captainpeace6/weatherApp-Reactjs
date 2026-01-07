@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import CurrentLocation from "./currentLocation";
 import "./App.css";
-
+// Main application component
+// Displays current weather based on user location
 function App() {
   return (
     <React.Fragment>
