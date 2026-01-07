@@ -1,3 +1,6 @@
+## Fork note
+Forked for learning React. I will refactor UI, improve code structure, and add small features.
+
 <p align="center">
 <img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
 </p>
