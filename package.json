@@ -1,5 +1,6 @@
 {
   "name": "weather",
+  "description": "Forked React weather app for learning, refactoring, and feature improvements"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
